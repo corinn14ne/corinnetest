@@ -1,6 +1,22 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html>
-<body>
-<h1>Hello World!</h1>
+<head>
+  <title>Corinne</title>
+</head>
+  <body>
+<div>
+<div>
+  <h1>Corinne</h1>
+</div>
+<div>
+  <img src="image/danny devito.jpeg">
+</div>
+<div>
+  <p>I am a second year student at the University of Strathclyde working towards a joint degree of English and Journalism, Media and Communications. My ambitions lie in pursuing a career in journalism, specifically music journalism.
+</div>
+<div>
+  <footer> corinne.mccafferty.2019@uni.strath.ac.uk</footer>
+</div>
+</div>
 </body>
 </html>
